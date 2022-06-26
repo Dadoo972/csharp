@@ -32,20 +32,8 @@
     "description": "implicit-casts"
   },
   {
-    "url": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/type-testing-and-cast#cast-expression",
-    "description": "cast-operator"
-  },
-  {
     "url": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/checked",
     "description": "checked"
-  },
-  {
-    "url": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/type-testing-and-cast#is-operator",
-    "description": "is-operator"
-  },
-  {
-    "url": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/type-testing-and-cast#as-operator",
-    "description": "as-operator"
   },
   {
     "url": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/user-defined-conversion-operators",
@@ -62,18 +50,6 @@
   {
     "url": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/type-testing-and-cast",
     "description": "type-testing-and-cast-operators"
-  },
-  {
-    "url": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/type-testing-and-cast#cast-expression",
-    "description": "cast-operator"
-  },
-  {
-    "url": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/type-testing-and-cast#is-operator",
-    "description": "is-operator"
-  },
-  {
-    "url": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/type-testing-and-cast#as-operator",
-    "description": "as-operator"
   },
   {
     "url": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/type-testing-and-cast#typeof-operator",
